@@ -9,3 +9,5 @@
 ### Watch tower
 ![image](https://github.com/user-attachments/assets/469f2f9b-489c-4840-9580-7be2c3065ac9)
 
+### Water tank
+![image](https://github.com/user-attachments/assets/6a29ff69-1e01-4b4b-842e-8f342cd97deb)
