@@ -11,3 +11,7 @@
 
 ### Water tank
 ![image](https://github.com/user-attachments/assets/6a29ff69-1e01-4b4b-842e-8f342cd97deb)
+
+### Warehouse
+<img width="574" height="576" alt="image" src="https://github.com/user-attachments/assets/a9afb12e-432c-44e1-83f1-c3aa4ba7036a" />
+
