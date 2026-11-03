@@ -15,3 +15,5 @@
 ### Warehouse
 <img width="574" height="576" alt="image" src="https://github.com/user-attachments/assets/a9afb12e-432c-44e1-83f1-c3aa4ba7036a" />
 
+### Workshop 40x40m
+<img width="591" height="424" alt="image" src="https://github.com/user-attachments/assets/316e58cf-090a-4036-bad0-10fdef76da1c" />
